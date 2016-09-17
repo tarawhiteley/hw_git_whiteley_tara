@@ -27,6 +27,10 @@ h1 {
 	padding-top: 20px;
 }
 
+h2 {
+	display: none;
+}
+
 h3 {
 	font-size: 30px;
 }
